@@ -1,4 +1,4 @@
--- everything in plugin/after is from craftzdog
+-- everything in after/plugin is from craftzdog
 local Plug = vim.fn['plug#']
 vim.g.mapleader = " "
 
